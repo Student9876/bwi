@@ -1,0 +1,7 @@
+.cost {
+    margin: 2rem;
+    padding: 1rem;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    box-shadow: 4px 4px 6px rgb(210, 210, 210);
+}
